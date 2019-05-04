@@ -1,8 +1,10 @@
 # liri-node-app
-##Language Interpretation and Recognition Interface
+## Language Interpretation and Recognition Interface
 **LIRI is similar to SIRI**
 
 liri-node-app is a command line nodejs application that uses 3 different API's to output information about concerts, music on spotify, and movie info from OMDB.
+
+Run the command line in your terminal or bash: npm install
 
 Liri.js can take in the following commands:
 1. node liri.js concert-this add-artist/band-name-here :musical_keyboard:
